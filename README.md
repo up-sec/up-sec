@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Uriel Prado 👋
 
-<!--
-**up-sec/up-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Engineering student building toward a career in **applied cryptography, PKI and post-quantum cryptography (PQC)** for critical and financial infrastructure.
 
-Here are some ideas to get you started:
+## 🧭 Background
+- Founder & Director of **JNETWORK MX** — telecommunications, networking and electronic security (CCTV, LAN/WAN, structured cabling, IP telephony, access control).
+- Studying **Security Engineering** at Universidad Insurgentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Current focus
+- Symmetric & asymmetric cryptography internals (DES, AES, RSA, ECC)
+- PKI: Root / Intermediate CAs, certificate lifecycle, TLS & mTLS
+- Post-quantum cryptography: ML-KEM, ML-DSA, SLH-DSA, crypto agility
+
+## 🛠️ Projects
+- **crypto-lab** — hands-on cryptography labs. First lab: DES key schedule implemented in Python *(in progress)*
+- **PQC Migration Lab for Financial Infrastructure** — capstone project *(planned)*
+
+## 🧰 Tools
+**Using:** Linux · Python · Bash · Git · TCP/IP networking
+**Learning:** OpenSSL · PowerShell · Ansible · Docker
