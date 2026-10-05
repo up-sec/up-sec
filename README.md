@@ -16,5 +16,5 @@ Security Engineering student building toward a career in **applied cryptography,
 - **PQC Migration Lab for Financial Infrastructure** — capstone project *(planned)*
 
 ## 🧰 Tools
-**Using:** Linux · Python · Bash · Git · TCP/IP networking
-**Learning:** OpenSSL · PowerShell · Ansible · Docker
+Using: Linux · Python · Bash · Git · TCP/IP networking
+Learning: OpenSSL · PowerShell · Ansible · Docker
