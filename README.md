@@ -3,10 +3,11 @@
 Security Engineering student building toward a career in **applied cryptography, PKI and post-quantum cryptography (PQC)** for critical and financial infrastructure.
 
 ## 🧭 Background
-- Founder & Director of **JNETWORK MX** — telecommunications, networking and electronic security (CCTV, LAN/WAN, structured cabling, IP telephony, access control).
+- Managger  **JNETWORK MX** — telecommunications, networking and electronic security (CCTV, LAN/WAN, structured cabling, IP telephony, access control).
 - Studying **Security Engineering** at Universidad Insurgentes.
 
 ## 🔐 Current focus
+- Blockchain cryptography: Ed25519 signatures, key management and transaction signing (Stellar)
 - Symmetric & asymmetric cryptography internals (DES, AES, RSA, ECC)
 - PKI: Root / Intermediate CAs, certificate lifecycle, TLS & mTLS
 - Post-quantum cryptography: ML-KEM, ML-DSA, SLH-DSA, crypto agility
