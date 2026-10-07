@@ -3,7 +3,7 @@
 Security Engineering student building toward a career in **applied cryptography, PKI and post-quantum cryptography (PQC)** for critical and financial infrastructure.
 
 ## 🧭 Background
-- Managger  **JNETWORK MX** — telecommunications, networking and electronic security (CCTV, LAN/WAN, structured cabling, IP telephony, access control).
+- Manager  **JNETWORK MX** — telecommunications, networking and electronic security (CCTV, LAN/WAN, structured cabling, IP telephony, access control).
 - Studying **Security Engineering** at Universidad Insurgentes.
 
 ## 🔐 Current focus
