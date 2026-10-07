@@ -13,9 +13,11 @@ Security Engineering student building toward a career in **applied cryptography,
 - Post-quantum cryptography: ML-KEM, ML-DSA, SLH-DSA, crypto agility
 
 ## 🛠️ Projects
-- **crypto-lab** — hands-on cryptography labs. First lab: DES key schedule implemented in Python *(in progress)*
+   - **[crypto-lab](https://github.com/up-sec/crypto-lab)** — hands-on cryptography labs. First lab: DES key schedule implemented in Python *(in progress)*
 - **PQC Migration Lab for Financial Infrastructure** — capstone project *(planned)*
 
 ## 🧰 Tools
-Using: Linux · Python · Bash · Git · TCP/IP networking
-Learning: OpenSSL · PowerShell · Ansible · Docker
+
+**Using:** Linux · Python · Bash · Git · TCP/IP networking
+
+**Learning:** OpenSSL · PowerShell · Ansible · Docker
